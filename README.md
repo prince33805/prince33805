@@ -13,14 +13,14 @@ I enjoy building scalable systems, focus on clean APIs, architecture, performanc
 
 ## 🛠 Tech Stack
 
-** 💻 Languages & Frameworks**
+**💻 Languages & Frameworks**
 
 * TypeScript, JavaScript, Python, PHP
 * NestJS, Node.js, Express.js, Elysia.js
 * React, Next.js, Vue.js
 * Django, Laravel
 
-** 📦 Database & ORM**
+**📦 Database & ORM**
 
 * PostgreSQL
 * MySQL
@@ -30,7 +30,7 @@ I enjoy building scalable systems, focus on clean APIs, architecture, performanc
 * Firestore
 * Supabase
 
-** ⚙️ DevOps & Tools**
+**⚙️ DevOps & Tools**
 
 * Docker, Docker Compose
 * Nginx
